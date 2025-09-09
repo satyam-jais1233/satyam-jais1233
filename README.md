@@ -16,13 +16,13 @@
 
 ## 📌 Projects
 - 🎬 [Netflix Clone](https://satyam-jais1233.github.io/netflix-project/)  
-- ✅ To-Do List (React)  
-- 🎮 Tic-Tac-Toe Game (React)  
+- 🎮 Tic-Tac-Toe Game (React)
+- 🌐 - [Nextly Responsive Landing Page](https://satyam-jais1233.github.io/nextly-project/) 
 
 ---
 
 ## 📫 Connect with me
 - 📧 Email: satyamjaiswal4696@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/satyamjaiswal1233/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/satyamjaiswal1233/)  | [GitHub](https://github.com/satyam-jais1233)
 
 
